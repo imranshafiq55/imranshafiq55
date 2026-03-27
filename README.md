@@ -1,6 +1,7 @@
 I am a Software Engineer specializing in Python-driven automation and process optimization. With a Google IT Automation Professional Certificate and hands-on experience in Selenium and API integration, I transform manual bottlenecks into scalable, reliable scripts.
 
 Core Technical Toolkit:
+
 ● Automation: Python, Selenium (Headless), SMTP, Linux CLI.
 
 ● Data/API: REST APIs, JSON/CSV Processing, Data Validation.
