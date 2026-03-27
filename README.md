@@ -1,16 +1,16 @@
-## Hi there 👋
+I am a Software Engineer specializing in Python-driven automation and process optimization. With a Google IT Automation Professional Certificate and hands-on experience in Selenium and API integration, I transform manual bottlenecks into scalable, reliable scripts.
 
-<!--
-**imranshafiq55/imranshafiq55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Technical Toolkit:
+● Automation: Python, Selenium (Headless), SMTP, Linux CLI.
+● Data/API: REST APIs, JSON/CSV Processing, Data Validation.
+● Reliability: Debugging, Logging, Error Handling, Git/Version Control.
 
-Here are some ideas to get you started:
+Certifications:
+Google IT Automation with Python Professional Certificate – Google (via Coursera)
+Python Project for Data Science – IBM (via Coursera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about streamlining complex workflows and enhancing operational efficiency. Let’s connect if your team needs a plug-and-play automation developer.
+
+📧 imranshafiqtahir@gmail.com
+
+Available For Hire.
